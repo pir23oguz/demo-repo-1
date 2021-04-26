@@ -1,0 +1,48 @@
+Containers:
+Container      : fixed width
+container-fluid: full width 
+COLORS:
+Backgorund colors:
+.bg-primary
+.bg-secondary
+.bg-success
+Text Colors:
+.text-success
+.text-warnig
+.text-dark
+justify-content-end  ---> moves elements to the end of the page
+navbar-light  -> makes the text dark on navbar
+navbar-dark   -> makes the text light on navbar
+GRID SYSTEM:
+Grid system in bootstrap is used to create rows and columns
+.row-> creats rows
+.col-> creats columns
+Note: We first use row then use col to create rows and columns
+<div class="container">
+  <div class="row">   --->>>>    MY ROW
+    <div class="col-sm"> --->>> COLUMN1
+      One of three columns
+    </div>
+    <div class="col-sm"> --->>> COlUMN 2
+      One of three columns
+    </div>
+    <div class="col-sm"> --->>> COLUMN 3
+      One of three columns
+    </div>
+  </div>
+</div>
+AUTO LAYOUT:
+ .col-sm-6  
+-> col= column
+-> sm = small screen
+-> 6 = number of units. Max number of unit is 12.
+.col-md-3  
+-> col : column
+-> md : middle screen
+-> 3 : 3 units/ 12 units
+.col-lg-2
+On a large screen occupy 2 units 
+col-lg-6 col-md-6 col-sm-12
+If screen is large : 6 units
+If screen is middle: 6 units
+If screen is small : 12 units
