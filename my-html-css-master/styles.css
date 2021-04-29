@@ -1,0 +1,71 @@
+		h1{
+        color: red; 
+	    font-size: 40px; 
+	    font-family: arial-black
+		}
+		h2{
+		color: blue;
+	    font-size: 3em;
+	    font-family: cursive;
+	    text-align: right;
+	    background-color: yellow
+		}
+		h3{
+		color: #F800AE;
+	    font-size: 120%;
+	    text-align: center;
+	    background-color: #0B5345
+		}
+		.yb{
+		color: gold; 
+	    background-color: red; 
+	    text-align: right;
+	    font-family: courier;
+	    font-size: 35px
+		}
+		#hf{
+		color: darkblue;
+		font-size: 3em;
+		font-family: arial;
+		}
+		p{
+		font-size: 35px;
+	    color: blue
+		}
+		body{
+			/*background color*/
+			background-color: #FBD0EE;
+			/*changes the color of the text*/
+	        /*color: red*/
+	        background-image: url("https://media.istockphoto.com/photos/clouds-in-the-blue-sky-picture-id1004682020?k=6&m=1004682020&s=612x612&w=0&h=eTViD0_2jcyQf73lsnf0R1TjLy9coueW_W0bkgRN5qU=");
+	        background-repeat: repeat;
+		}
+		table,td,th{
+			font-size: 50px;
+			border-style: solid;
+			border-color: red;
+			border-spacing: 10px
+		}
+		td{
+			border-color: purple;
+			color: white;
+			background-color: grey
+		}
+		iframe{
+			width: 100%;
+			height: 300px;
+			border-color: black;
+			border-style: solid;
+			border-width: 20px;
+			margin: 40px
+
+		}
+
+
+
+
+
+
+
+
+
